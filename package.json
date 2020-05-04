@@ -1,0 +1,22 @@
+{
+  "name": "edgeledger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadiex1/EdgeLedger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadiex1/EdgeLedger/issues"
+  },
+  "homepage": "https://github.com/shadiex1/EdgeLedger#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
